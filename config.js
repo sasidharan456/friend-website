@@ -32,9 +32,9 @@ const CONFIG = {
 
     // Special messages for different kiss counts
     kissMessages: {
-        10: "10 kisses! You're so sweet! 💕",
-        20: "20 kisses! I'm falling deeper in love! 💖",
-        50: "50 kisses! You're my everything! 💘"
+        10: "10 friendly kisses 😘 — just small reminders that you’re special to me 🌼",
+        20: "20 happy kisses 💛 — because your smile makes my day brighter ☀️",
+        50: "50 bestie kisses 😄 — you’re not just a friend, you’re family to me 🫶"
     },
 
     // Character interaction messages
